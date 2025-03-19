@@ -67,20 +67,12 @@ namespace Calculadora.ConsoleApp
                     continue;
                 }
 
-                contadorHistorico++;
-
-
                 Console.WriteLine("----------------------------------");
                 Console.WriteLine("digite o primeiro número: ");
-                string strPrimeironumero = Console.ReadLine();
+                decimal primeironumero = Convert.ToDecimal(Console.ReadLine());
 
-                decimal primeironumero = Convert.ToDecimal(strPrimeironumero);
-
-
-                Console.WriteLine("digite o segundo número: ");
-                string strSegundonumero = Console.ReadLine();
-
-                decimal segundonumero = Convert.ToDecimal(strSegundonumero);
+                Console.WriteLine("digite o segundo número: ");              
+                decimal segundonumero = Convert.ToDecimal(Console.ReadLine());
 
                 decimal resultado = 0.0m;
 
