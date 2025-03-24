@@ -1,5 +1,7 @@
 # Calculadora Polishop 
 
+![](https://imgur.com/xIIY5bV.gif)
+
 ## Introdução
 
 Uma calculadora de console simples que permite realizar as quatro operações, além de visualizar a tabuada e o hístorico de operações.
@@ -12,3 +14,7 @@ Uma calculadora de console simples que permite realizar as quatro operações, alé
 - Tratamento de Divisão por zero: A calculadora é capaz de validar erros de divisão por zero.
 - Tabuada: A calculadora é capaz de gerar a tabuada de um número informado.
 - hístorico de Operações: A calculadora é capaz de armazenar um hístorico de operações.
+
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,cs,dotnet,visualstudio)](https://skillicons.dev)

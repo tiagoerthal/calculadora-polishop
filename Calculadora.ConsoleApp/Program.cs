@@ -66,7 +66,7 @@ namespace Calculadora.ConsoleApp
                     Console.ReadLine();
                     continue;
                 }
-
+                 
                 Console.WriteLine("----------------------------------");
                 Console.WriteLine("digite o primeiro número: ");
                 decimal primeironumero = Convert.ToDecimal(Console.ReadLine());
